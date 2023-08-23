@@ -7,7 +7,7 @@ To set up python, follow the instructions in [the python setup guide](docs/pytho
 ## Poetry setup
 Follow the installation instructions in [the poetry documentation](https://python-poetry.org/docs/#installation).
 
-## Activate the environment
+## Activate the python virtual environment
 `poetry shell`
 
 ## Run the main script
