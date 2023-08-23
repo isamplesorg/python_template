@@ -5,7 +5,7 @@ description = "This is a template python project set up to start new work with p
 authors = ["Danny Mandel <danny.mandel@gmail.com>"]
 license = "Apache 2.0"
 readme = "README.md"
-packages = [{include = "python_template"}]
+packages = []
 
 [tool.poetry.dependencies]
 python = "^3.9"
