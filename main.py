@@ -11,7 +11,7 @@ import click
 )
 def main(verbosity: str):
     """
-    Updates existing OpenContext records in a Things db to have their id column stripped of the n2t prefix.
+    This is a sample python main script, driven by Click
     """
     print(f"Hello World, verbosity is {verbosity}")
 
